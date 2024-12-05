@@ -1,0 +1,2 @@
+sudo apt install docker.io
+docker run -it --rm blender blender -b yourfile.blend -o //output -F PNG -x 1 -f 1
